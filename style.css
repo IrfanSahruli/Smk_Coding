@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .navbar{
+    justify-content: space-between;
+    display: flex;
+    background-color: #ffff;
+    width: 110%;
+  }
+  
+  .logo img{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 120px;
+  }
+  
+  .nav-item{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 120px;
+  }
+  
+  .nav-item li{
+    list-style-type: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+  }
+  
+  .nav-item li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .container-1{
+    background-color: #f2f5fb;
+    height: 500px;
+    width: 110%;
+  }
+  
+  .teks{
+    padding-left: 150px;
+    padding-top: 90px;
+  }
+  
+  .teks h1{
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  .teks p{
+    color: grey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .btn{
+    display: flex;
+  }
+  
+  .btn button{
+    color: white;
+    border: none;
+    background-color: blue;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+  
+  .foto img{
+    height: auto;
+    width: 390px;
+    padding-top: 70px;
+    padding-left: 110px;
+  }
+  
+  .container-2{
+    width: 110%;
+    background-color: #facc39;
+    height: 105px;
+  }
+  
+  .container-2 img{
+    width: 40px;
+  }
+  
+  .container-2 h5{
+    padding-left: 15px;
+  }
+  
+  .container-2 p{
+    padding-left: 15px;
+  }
+  
+  .karir{
+    margin-left: 150px;
+    display: flex;
+  }
+
+  .container-3{
+    padding-top: 15px;
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+
+  .navbar-2{
+    justify-content: space-between;
+    display: flex;
+    background-color: #ffff;
+    width: 110%;
+  }
+
+  .nav-item-2{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 120px;
+  }
+
+  .nav-item-2 li{
+    list-style-type: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+  }
+
+  .nav-item-2 li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+  }
+
+  .t3{
+    margin: 2px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .copy{
+    margin: 2px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .teks-p{
+    color: rgb(98, 30, 214);
+  }
+
+  .container-4{
+    margin-top: 50px;
+    background: hsl(27, 39%, 81%);
+    height: 200px;
+    text-align: center;
+  }
+
+  .foto-member{
+    margin-top: 25px;
+    margin-left: 150px;
+  }
+
+  .teks-member{
+    margin-top: 65px;
+  }
+
+  .btn-member{
+    margin-top: 77px;
+    margin-right: 150px;
+  }
+
+  .container-5{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-left: 150px;
+  }
